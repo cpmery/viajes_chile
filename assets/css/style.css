@@ -1,8 +1,4 @@
 /*SECCION DESTACADOS*/
-.gr_card{
-    display:grid;
-    grid:auto/auto auto auto auto;
-}
 .ima{
     height:9em;
 }
