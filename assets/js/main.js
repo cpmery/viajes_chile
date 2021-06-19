@@ -1,0 +1,11 @@
+$(function(){
+    $(".hola1").click(function(){
+        $(".chao1").toggle();
+    })
+    $(".hola2").click(function(){
+        $(".chao2").toggle();
+    })
+    $(".hola3").click(function(){
+        $(".chao3").toggle();
+    })
+})
