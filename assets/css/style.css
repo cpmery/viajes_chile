@@ -1,0 +1,24 @@
+/*SECCION DESTACADOS*/
+.gr_card{
+    display:grid;
+    grid:auto/auto auto auto auto;
+}
+.ima{
+    height:9em;
+}
+.borde{
+    border-bottom-color: rgb(64, 200, 224);
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+}
+/*SECCION QUIENES SOMOS*/
+.gr_2{
+    display:grid;
+    grid:auto/auto auto auto;
+}
+
+/*SECCION FOOTER*/
+h1{
+    font-size: 1.2em;
+    font-weight: 500;
+}
